@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.logo {
+  font-size: 55px;
+  color: white;
+}
+
+.text {
+  font-size: 34px;
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
